@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Merhaba, ben ByClawZ
 
-<!--
-**ByClawZ/ByClawZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Yazılım geliştiricisiyim ve özellikle **Web, Android ve Otomasyon sistemleri** üzerinde çalışıyorum.
+⚡ Yeni teknolojiler öğrenmeyi ve projeler üretmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+
+* 📱 **Android uygulamaları** ve **web panelleri** yapıyorum
+* 🐍 **Python, PHP ve JavaScript** ile projeler geliştiriyorum
+* 🗄️ **SQL Server / MySQL** veritabanı sistemleri ile çalışıyorum
+* 🧠 Yazılım güvenliği ile ilgileniyorum
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+* Python
+* PHP
+* JavaScript
+* Flutter
+* HTML / CSS
+* MySQL
+* SQL Server
+* Linux & Windows
+
+---
+
+⭐ Yeni projeler geliştirmeyi ve açık kaynak katkıları yapmayı seviyorum.
